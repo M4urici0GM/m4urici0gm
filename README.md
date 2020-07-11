@@ -1,16 +1,16 @@
-### Hi there 👋
+# :man_technologist: Mauricio Barbosa
 
-<!--
-**M4urici0GM/m4urici0gm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=round-square&logo=Github&logoColor=white&link=https://github.com/m4urici0gm)](https://github.com/m4urici0gm)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=round-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mauriciobarbosacoelho/)](https://www.linkedin.com/in/mauriciobarbosacoelho/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=round-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/m4urici0gm)](https://twitter.com/m4urici0gm)
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=round-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5512991913642&text=Olá!)](https://api.whatsapp.com/send?phone=5512991913642&text=Olá!)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=round-square&logo=Gmail&logoColor=white&link=mailto:mgbftw@gmail.com)](mailto:mgbftw@gmail.com)
 
-Here are some ideas to get you started:
+- :office_worker: Pleno FullStack Developer **SMT Solutions**
+- :red_heart: .NET Core React.js, React Native, Docker.
+- :fire: C++, C#, Javascript, Typescript
+- :books: Neural networks with C++ :heart:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+:octocat:
