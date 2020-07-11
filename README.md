@@ -7,7 +7,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=round-square&logo=Gmail&logoColor=white&link=mailto:mgbftw@gmail.com)](mailto:mgbftw@gmail.com)
 
 - :office_worker: Pleno FullStack Developer **SMT Solutions**
-- :red_heart: .NET Core React.js, React Native, Docker.
+- :heart: .NET Core React.js, React Native, Docker.
 - :fire: C++, C#, Javascript, Typescript
 - :books: Neural networks with C++ :heart:
 
