@@ -7,7 +7,7 @@
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=round-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5512991913642&text=Olá!)](https://api.whatsapp.com/send?phone=5512991913642&text=Olá!)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=round-square&logo=Gmail&logoColor=white&link=mailto:mgbftw@gmail.com)](mailto:mgbftw@gmail.com)
 
-- :office_worker: Pleno FullStack Developer **SMT Solutions**
+- :office_worker: Pleno FullStack Software Engineer **SMT Solutions**
 - :purple_heart: Just a developer willing to pass forward my knowledge, love to see people learning how to code
 - :heart: .NET Core React.js, React Native, Docker.
 - :fire: C++, C#, Javascript, Typescript
