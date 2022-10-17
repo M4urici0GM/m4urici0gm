@@ -9,7 +9,7 @@
 - :office_worker: Software Engineer **MercadoLivre Brasil**
 - :purple_heart: Just a developer willing to pass forward my knowledge, love to see people learning how to code
 - :heart: .NET Core React.js, React Native, Docker.
-- :fire: C++, C#, Javascript, Typescript
+- :fire: Rust, C#, Javascript, Typescript, Java (And any other language that is needed)
 - :books: Neural networks with C++ :heart:
 
 
