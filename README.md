@@ -7,11 +7,9 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=round-square&logo=Gmail&logoColor=white&link=mailto:mgbftw@gmail.com)](mailto:mgbftw@gmail.com)
 
 - :office_worker: Software Engineer **MercadoLivre Brasil**
-- :purple_heart: Just a developer willing to pass forward my knowledge, love to see people learning how to code
-- :heart: .NET Core React.js, React Native, Docker.
-- :fire: Rust, C#, Javascript, Typescript, Java (And any other language that is needed)
+- :heart: .NET Core, Java, React.js, React Native, Docker.
+- :fire: Rust, C#, Javascript, Typescript, Java
 - :books: System design and software with Rust :heart:
-
 
 ---
 
