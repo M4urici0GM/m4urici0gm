@@ -6,9 +6,9 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=round-square&logo=Gmail&logoColor=white&link=mailto:mgbftw@gmail.com)](mailto:mgbftw@gmail.com)
 
 - :office_worker: Software Engineer **MercadoLivre Brasil**
-- :heart: .NET Core, Java, React.js, React Native, Docker.
+- :heart: .NET Core, SpringBoot, React.js, React Native, Kubernetes.
 - :fire: Rust, C#, Javascript, Typescript, Java
-- :books: System design and software with Rust :heart:
+- :books: CI/CD with Kubernetes + GitHub Actions :heart:
 
 ---
 
