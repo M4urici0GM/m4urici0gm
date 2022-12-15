@@ -1,6 +1,5 @@
 # :man_technologist: Mauricio Barbosa
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=round-square&logo=Github&logoColor=white&link=https://github.com/m4urici0gm)](https://github.com/m4urici0gm)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=round-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mauriciobarbosacoelho/)](https://www.linkedin.com/in/mauriciobarbosacoelho/)
 [![Twitch Badge](https://img.shields.io/badge/-Twitch-9146FF?style=round-square&labelColor=9146FF&logo=twitch&logoColor=F0F0FF&link=https://www.twitch.tv/m4urici0gm)](https://www.twitch.tv/m4urici0gm)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=round-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/m4urici0gm)](https://twitter.com/m4urici0gm)
