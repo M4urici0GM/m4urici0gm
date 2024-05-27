@@ -9,6 +9,7 @@
 - [LinkedIn](https://www.linkedin.com/in/mauriciogbc/)
 - [Email](mailto:your-email@example.com)
 
-### 🛠️ Projects:
+### 🛠️ Most relevant Projects:
 - [tcproxy](https://github.com/MauricioOGM/tcproxy): Open-source ephemeral reverse-proxy.
 - [port-scanner](https://github.com/MauricioOGM/port-scanner): Simple port scanner made with Rust.
+- [binary-multiply](https://github.com/M4urici0GM/binary-multiply): Studying in how binary numbers are multiplied under the hood.
