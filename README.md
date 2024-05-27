@@ -4,6 +4,7 @@
 - 🌐 Specializing in .NET Core, SpringBoot, React.js, React Native, Kubernetes
 - 💡 Interested in Rust, C#, JavaScript, TypeScript, and Java
 - 🚀 Passionate about CI/CD with Kubernetes & GitHub Actions
+- 🇧🇷 🇬🇧 🇳🇱 I speek Native Brazillian Portuguese, Fluent English and "een beetje Nederlands"
 
 ### 📫 How to reach me:
 - [LinkedIn](https://www.linkedin.com/in/mauriciogbc/)
